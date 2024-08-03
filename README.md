@@ -1,4 +1,4 @@
-Simple chatbot made using Streamlit and LangChain
+Simple chatbot with memory made using Streamlit and LangChain
 
 Uses Llama 3-8b model through Ollama
 
